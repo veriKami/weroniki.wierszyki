@@ -1,4 +1,4 @@
 weroniki.wierszyki
 ==================
 
-github (test) page
+github (project) page
